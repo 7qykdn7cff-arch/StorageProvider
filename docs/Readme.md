@@ -1,1 +1,0 @@
-# Sample Storage Provider Dapp
